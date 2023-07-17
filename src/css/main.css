@@ -1,3 +1,17 @@
 * {
-    font-family: 'Poppins', sans-serif ;
+  font-family: "Poppins", sans-serif;
+}
+
+.hero {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("../assets/img/hero/hero.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding-top: 100px;
+}
+
+.hero h1 {
+    font-style: 50px;
+    margin-bottom: 10px;
+    font-weight: bold;
 }
