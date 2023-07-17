@@ -11,7 +11,7 @@ const GalleryComp = () => {
   return (
     <div className="gallery min-vh-100 d-flex align-items-center justify-content-center">
       <Container>
-        <Row className="row-cols-lg-3 row-cols-md-2 row-cols-sm-2 row-cols-1 g-4">
+        <Row className="row-cols-lg-3 row-cols-md-2 row-cols-1 g-4">
           <Col>
             <img src={Gallery1} alt="unsplash.com" className="w-100" />
           </Col>
