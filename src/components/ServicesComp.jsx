@@ -2,7 +2,7 @@ import { Container, Row, Col } from "react-bootstrap";
 
 export default function ServicesComp() {
   return (
-    <div className="services min-vh-100 d-flex align-items-center">
+    <div className="services min-vh-100 d-flex align-items-center" id="services">
       <Container>
         <Row className="mb-5">
           <Col className="text-center">

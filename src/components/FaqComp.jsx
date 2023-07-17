@@ -2,7 +2,7 @@ import { Container, Row, Col, Accordion } from "react-bootstrap";
 
 export default function FaqComp() {
   return (
-    <div className="faq">
+    <div className="faq" id="faq">
       <Container>
         <Row className="mb-5">
           <Col className="text-center">
