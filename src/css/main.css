@@ -29,6 +29,10 @@
   font-weight: bold;
 }
 
+.hero p {
+  --animate-delay:.5s
+}
+
 .gallery img {
     height: 220px;
 }

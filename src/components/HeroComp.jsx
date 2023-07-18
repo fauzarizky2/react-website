@@ -6,8 +6,8 @@ const HeroComp = () => {
       <Container>
         <Row>
           <Col>
-            <h1 className="text-white text-center fs-1">Mari Bersantai Sebentar</h1>
-            <p className="text-white text-center text-white-50">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Possimus, sequi.</p>
+            <h1 className="text-white text-center fs-1 animate__animated animate__fadeInUp">Mari Bersantai Sebentar</h1>
+            <p className="text-white text-center text-white-50 animate__animated animate__fadeInUp animate__delay-1s">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Possimus, sequi.</p>
           </Col>
         </Row>
       </Container>
